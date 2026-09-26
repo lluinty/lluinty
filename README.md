@@ -8,5 +8,5 @@
 |---|---|---|
 |1|Email|[leonid.kazanov.official@gmail.com](mailto:leonid.kazanov.official@gmail.com)|
 |2|Telegram|[https://t.me/luinty](https://t.me/luinty)|
-|3|GitHub|[https://github.com/leonid-kazanov-official](https://github.com/lluinty)|
+|3|GitHub|[https://github.com/lluinty](https://github.com/lluinty)|
 |4|Steam|[https://steamcommunity.com/id/llampillamp/](https://steamcommunity.com/id/llampillamp/)|
